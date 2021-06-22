@@ -5,5 +5,9 @@
 		"psr-4": {
 			"webvimark\\image\\": ""
 		}
-	}
+	},
+  "require": {
+    "ext-imagick": "*",
+    "ext-gd": "*"
+  }
 }
