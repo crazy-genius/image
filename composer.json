@@ -7,7 +7,5 @@
 		}
 	},
   "require": {
-    "ext-imagick": "*",
-    "ext-gd": "*"
   }
 }
